@@ -13,9 +13,6 @@ main_folder = #TODO
 os.chdir(main_folder + '/python')
 from RHG_functions import *
 
-#dir = '/Users/abarrier/Documents/Scolaire/ENS/M1/Stage/LaTeX'
-#os.chdir(dir)
-
 ##########                 simple generation and plot                 ##########
 
 # parameters
