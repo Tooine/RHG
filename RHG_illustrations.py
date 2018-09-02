@@ -10,7 +10,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import time
 
 import os
-main_folder = '/Users/abarrier/Desktop/RHG'
+main_folder = #TODO
 os.chdir(main_folder + '/python')
 from RHG_functions import *
 
