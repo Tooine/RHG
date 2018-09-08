@@ -10,7 +10,7 @@ To install properly the files on your device, please do the following:
 You can now run all codes. If some figures are saved, all folders and files will be generated automatically. 
 
 Concerning the .py files:
-- RHG_functions.py countain all the functions used in other files. You do not have to use it. 
-- RHG.py allow to do basic simulations (generation and simulation of a push & pull proppagation) on RHG. 
-- RHG_layrs.py is similar as RHG.py but is specific to what we call RHG in layers (see the report). 
+- RHG_functions.py countains all the functions used in other files. You do not have to use it, 
+- RHG.py allows to do basic simulations on RHG (generation and simulation of a push & pull propagation), 
+- RHG_layrs.py is similar as RHG.py but is specific to what we call RHG in layers (see the report), 
 - RHG_simulations.py is the code used to generate most of the figures of the report. You can generate them by yourself. 
